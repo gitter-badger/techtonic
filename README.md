@@ -1,5 +1,7 @@
 #techtonic
 
+[![Join the chat at https://gitter.im/jhwohlgemuth/techtonic](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/jhwohlgemuth/techtonic?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 > Tools and templates to build JavaScript applications faster and better
 
 <div align="center">
